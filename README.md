@@ -34,6 +34,14 @@ text = r.recognize_google(audio, language='bn-IN')  # Bengali
 
 Thank You Mini Simple Project by Umang Ghoghari from C.K Pithawala College Surat 
 
+OUTPUT :
+
+SCREEN SHOT 1 : 
+<img width="1918" height="529" alt="Image" src="https://github.com/user-attachments/assets/c0c30755-d3e9-4e9b-9f1f-f77e46a70589" />
+
+SCREEN SHOT 2 FINAL OP: UMANG GHOGHARI
+<img width="1910" height="429" alt="Image" src="https://github.com/user-attachments/assets/e7dc78f3-6b9a-433b-b59c-87bfa79dc26f" />
+
 
 
 
